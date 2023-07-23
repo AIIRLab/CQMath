@@ -1,0 +1,501 @@
+Post_id	Comment_id	CQ	Usefullness	Category
+1776005	3624974	are you trying to proceed without using the fact I mentioned in the last sentence, or did you want a proof of that fact? I think your problem is not much less general than the fact as I gave it, so proving the general case ($\epsilon_i$ not restricted to be linear) might be unavoidable.	2	Combination
+1653396	3372759	Um... so you're asking if you can leave _the notation for the thing you're defining_ out of the definition? Then it seems that no useful definition is left.	2	Combination
+60136	139202	Complex or real?  If complex, you need $(x^*Ay)(y^*Ax)$ on the left.	3	Combination
+2190671	4506878	I guess this is part of the proof of Theorem 6 in Chapter 3.4 of the PDE book by L. C. Evans. Am I right? In that case, the integral for q goes from $x$ to $+\infty$.	3	Combination
+4341373	9056226	@DonThousand Are you reading $\exists!$ as "there's no"? I think it's usually read as "there's exactly one" (or possibly "there's at most one" in some sources).	3	Combination
+1835294	3752997	The convenience is assuming they are disjoint, so that you don't have to go through the process of formally making them disjoint, which may just make notation in the proof messier if carried out. I am not really sure what you have a problem with anymore: you know what disjoint union is, you know about free product of disjoint sets, so what is your problem with that making the groups disjoint? $G*G$ is just a name for a group which is the free product of disjoint copies of $G$ (which you should know how to do if you know the disjoint union of sets)	3	Combination
+1282964	2604898	Is $k$ an unknown constant between selections, or a uniformly distributed random variable realised on each trial?	3	Combination
+1462223	2977842	Well why didn't you write that, then, if that's what you want to do? You didn't even mention parity. Please edit the question so that it can be undertstood without having to read the comments. Also, I don't see what in that description corresponds to your $\lt$ relations.	3	Combination
+2119652	4359305	Now, prove that $Im (f)=U_\infty$. Do you need any help with it?	3	Combination
+1795060	3664841	It's "prove" not "proove" and "number" is ambiguous (natural? rational? real? complex? ordinal?).	3	Combination
+3118852	6425756	Why are you concluding with "thus $ab = 0$? That's unnecessary. We already assumed that, and it's not what we're after. And don't use $a^{-1}$ until you have assumed that $a\neq 0$.	2	Combination
+1796754	3668557	How do you deduce $\frac{f(2k)}{2} \geq \frac{f(a_1)+f(a_2)}{4}$? You have $a_1+a_2=2k$, so $f(2k)=f(a_1+a_2) \leq f(a_1)+f(a_2)$...	2	Combination
+2697552	5569905	The dirac delta function is a distribution, and thus takes a function for it's input. I am not sure what you are doing here. Also, how do you obtain $f^{-1}(u)=x^\prime -x$? Are you assuming that $f$ is linear?	2	Combination
+2752458	5678343	If the tests have different weight then wouldn't your teacher adjust the denominator accordingly? e.g, if you got 29 out of 35 points on Test 2 but 22 out of 22 on Test 4, then dropping Test 2 would lower your denominator by 35 points whereas dropping Test 4 would lower your denominator by only 22.	2	Combination
+3612783	7426161	Do you mean $A\mathbf{x} = \mathbf{0}$? And what is gf(2)?	1	Combination
+1414359	2881746	Linear as in admitting a faithful finite-dimensional representation? Well, what do you thiink about the problem?	1	Combination
+3970620	8190947	What have you tried? Hint: the system doesn't necessarily have a unique solution.	1	Combination
+814488	1683178	I think that's a little too broad? Squares can have so many interpretations. When it's in a formula (e.g. $\frac{1}{2}mv^2$), I just tend to interpret it as: "A 'small' variation in $v$ will cause a 'big' variation in $E_k$", or "if my velocity keeps getting higher, my kinetic energy will also keep getting higher, but at a much higher rate".	1	Combination
+4369999	9130927	Which programming language is that? I'm guessing TypeScript.	1	Combination
+2775471	5723980	What have you done on this?  Can you compute the probability of success if you flip the coin 5 times, say?	1	Combination
+2302679	4737563	Of what are you taking the product in the second and third lines? Should it be $\mathcal{F}(U_i\cap U_j)$? Also, writing  $$\sigma(s_1,s_2)=(s_1,s_1|_{U_2},s_2|_{U_1},s_2)\qquad\text{ and }\qquad\sigma'(s_1,s_2)=(s_1,s_2|_{U_1},s_1|_{U_2},s_2),$$ assumes an ordering on the product over $I^2$. If you don't assume an arbitrary ordering on the products then it is clear that the maps $\sigma$ and $\sigma'$ are in fact the same.	1	Combination
+3333495	6860033	What's the role of $x_i$? Position?	1	Combination
+1857145	3802128	Have you looked at the proof? What is it proving?	1	Combination
+1807382	3692715	Can you expand the polynomial and compute the coefficient of $x$ in $f(x)$?  What is the value of $f$ when $x=p$?	1	Combination
+1020390	2082051	Do you integrate from $a$ to $b$ and do you average the integral by dividing by $b-a$? Also should you have $f(x) \geq 0$?	1	Combination
+4029990	8322275	What if $F = 0$? You will need more conditions than only continuity. And what do you mean with *"a linear system cannot be driven to the origin with nice controls"*? Linear state feedback is not nice? Why?	1	Combination
+237142	525087	Yes, you can. Do you need to give such a number? Do you know about continued fractions?	1	Combination
+116332	270457	I know the theory behind it, I'm just not sure how I'd attempt to do it.  You know why it takes a minimum of n-1 comparisons to find the smallest element, right?  Well, without giving it away, once you know the smallest, how would you develop a short list of candidates for the runner up?	0	Combination
+2377952	4902241	But what is the proposition you're trying to prove? The Well-Ordering Principle?	0	Combination
+4145975	8580799	Can $x^!$ be solved?  $\sqrt{{\rm True}}$?  $\sum\limits_{x=!}^{\sqrt{ +}}$?	0	Combination
+1515662	3086828	What do you mean by curve?  If you just mean a continuous image of $[0,1]$, then a space-filling curve gives a counter-example.	0	Combination
+817321	1689244	What is your definition of $x\times y$? Also, your relation with $\sin \alpha$ is wrong.	0	Combination
+1626854	3317287	If your understanding of the question is correct and f(v,w) = v + w you just have to show f(v,w) + f(y, z) = f(v+y, w+z) and f(k(v,w)) = kf(v,w).  Actually your statment $(f + g)(s) = f(s) + g(s)$ doesn't seem right to me.  That's always true by definition, isn't it?  I think you meant f(s + t) = f(s) + f(t).  Unless I misunderstand what you meant...	0	Combination
+1895452	3888257	Isn't $f(p)$ simply too large a number to be a factor of $p^n-1$ in most cases? Bernoulli's inequality implies that $f(p)\ge(p-1)^{n+1}>p^n-1$ when $p>n+1$. And that is not a tight estimate. Anyway, $p$ needs to be small, so if you rule out small cases, then it probably will work, but also may not be as interesting as the case $\deg f=n$.	0	Combination
+2720906	5618105	You just need to check that the three axioms in the definition are satisfied. Which of the three is giving you problems? Did you try verifying the axioms for linear matroids? The notion of "flat" of a matroid is the combinatorial abstraction of a vector subspace, so verifying the axioms for linear matroids might be more natural. That verification is useful for the graphic case since every graphic matroid is linear.	0	Combination
+1656210	3377881	Well it can't be uniform like that since the range of $Y/X$ is all of $\Bbb R$ isn't it?	0	Combination
+4074964	8420105	It is $t$ or $p$ ? Is it $dt$ or $dx$ ? Also I don't think integrating on $\mathbb R^-$ is relevant, $x^{2-t}$ is not defined there for most of the reals $t$ ? (only on $\mathbb Q_{odd}$ the rationals with odd denominator).	0	Combination
+2479425	5122755	Is the answer 53??	2	Confirmation
+2896068	5983599	Do you mean: "post the shortcut as answer"?	3	Confirmation
+1886956	3870163	So, you have a list of triangles but some of them might be degenerate, and you run into trouble when you try to build a local coordinate system on one of these bad triangles. Is that a fair assessment of the situation? If so, how about keeping the last â€œgoodâ€ set of axes (basis vectors) and when you detect one of these bad cases, use the saved coordinate system, adjusting the origin as necessary to the midpoint of the shared edge common to the bad triangle and the next one?	3	Confirmation
+2734573	5643697	Doesn't $|X|\le1$ mean that the cardinality of $X$ is less than or equal to 1?	3	Confirmation
+1157824	2360720	I assume that $x>0$, as is the quantity on the right?	3	Confirmation
+3593827	7388510	In your [motivating question](https://math.stackexchange.com/questions/3593506/how-to-write-a-mixed-integer-program-for-a-streak), $(c,d,e)=(x,1,-1)$, right?	3	Confirmation
+4350460	9079881	Do you mean that, in your opinion, the definition of ordering in the sense of $<$ does not need to replace the "connex" condition? Is this your question?	3	Confirmation
+2722481	5620267	It appears that you want to arrange the rectangles so that the midpoint of a chosen side of each touches the circle and the rectangles are packed as tightly as possible. Is that about right?	3	Confirmation
+2604608	5378379	First: if you have $f(x)=2a+3b$ you can say just $f(x)=k$. Second: do you mean by the Epsilon-Delta definition? Or by $\lim_{h\to0}|f(x)-f(x+h)|=0$? Or maybe other definition?	3	Confirmation
+328171	709367	So we delete $\frac{7}{8}$ of the elements yet we copy a quarter over?  How does that work?  Also you define two things as the 'current' number of elements.  Do you mean $n$ is how many elements you start with?	3	Confirmation
+3215548	6616192	are you asking what kind of mathematical object $\nabla g$ is? Or are you also interested in what this quantity means?	3	Confirmation
+1723255	3518242	"if I have $2$ questions correct in a row, the following questions will give me an additional point if I am correct" -- do I understand correctly that any correct answer preceded by at least two correct answers is worth $2$ points? So e.g. "wrong, right, right, right, right, right, wrong" would be worth $5+3=8$ points?	3	Confirmation
+3748552	7709972	you put "$i_j$ ranges from $0$ to $r_j$" : is that an actual requirement ?	3	Confirmation
+3685461	7576373	Am I correct in saying what you meant by the second question is "let $v^* \in \Bbb R$ ...."? I.e., $v^*$ is just a real number that will act as the target $v$ approaches in the limits?	3	Confirmation
+1034874	2109353	so a loop would be a closed path without backtracking?	3	Confirmation
+3302644	6794612	To confirm, are you trying to show $x \mapsto \langle x, y \rangle - H(x)$ obtains a unique maximum for any given $y$, where $H$ is strictly convex, homogeneous of degree $2$, and continuously twice-differentiable everywhere but $0$?	3	Confirmation
+2720469	5616002	Do you want $f$ to be continuous?	3	Confirmation
+946265	1949360	Are you sure the recurrence starts with $k=0$? That leads to $E(0) = 1+E(0)$.	3	Confirmation
+1351742	2748276	What book is this? I'm guessing $k_{n+1}$ is the set of $(n+1) \times (n+1)$ matrices over the field $k$. The $n+1$ is the dimension of $A^1$ which is clearly one more than $A$.	3	Confirmation
+3694877	7596966	Did you read somewhere that this is true? In a 1981 paper, "*Almost split sequences in subcategories*" Auslander and SmalÃ¸ raised this as a problem (with the extra condition that $\mathcal{T}$ should be closed under extensions), and proved it is some special cases. But I thought that the general case (even assuming "closed under extensions") was still not known.	3	Confirmation
+1366366	2780376	It *is* the correct answer. What do you think is the correct answer, and why?	2	Confirmation
+2292287	4715779	Is this a tenth power or does this symbolize that we are talking about a number $N$ with base-10 digits as specified?	2	Confirmation
+1529048	3114070	you want to compute the cumulative distribution function of the binomial distribution?!	2	Confirmation
+2058528	4225545	I suppose I'm left asking should they be equal? or why do you think they should be equal.	2	Confirmation
+3742710	7696213	Is your convention that $v$ and $w$ are row vectors?	2	Confirmation
+4355301	9092989	@Fractal20 As in, restriction(s) independent of the initial condition?	2	Confirmation
+342569	737408	I take it that $T$ is supposed to be itself recursive?	2	Confirmation
+255901	560737	If $m-k$ is odd then that inequality is equivalent to $$k \geq m - \log_2 \left[\sqrt{\pi} \binom{m}{n} \right].$$ Is this the kind of thing you're looking for?	2	Confirmation
+2578563	5322448	Sorry, that doesn't work. I assume that there is an understood *summation* over $m$?	2	Confirmation
+3347323	6890980	Oh, so $\int_S\frac{\sigma(x')}{\|x_0-x'\|}\,da'$ has the same value for all $x_0\in S$?	2	Confirmation
+342519	737280	By graph, do you mean the graph of a function?	2	Confirmation
+4299660	8954443	Is it a conjecture or do you know that it is true and you need a proof?	2	Confirmation
+3210981	6606846	Are you sure that you have made no typo?	2	Confirmation
+2637003	5447831	Are you sure you want $\Psi$ and not $\sqrt{\Psi}$? The latter is the distance with respect to the Frobenius norm.	2	Confirmation
+1903783	3906663	It mentions that you use Python. Does this indicate that a numerical approximated is wanted?	2	Confirmation
+3603490	7407203	'Clearly then $k = 1$, else $k(p_1-1)(p_2-1) > n-1$'. Is this true? We've assumed $p_1 \neq 2$,but couldn't $p_2 = 2$? Then we would have $k(p_1-1)(p_2-1) = k(p_1-1) \geq (kp_1p_2)/2$, which is acceptable for $k = 2$ for strict equality?	2	Confirmation
+530900	1134217	So what you're asking is more or less how specific one needs to be in order to justify calling a result a full classification?	2	Confirmation
+3413069	7019368	Are you assuming that $f$ is everywhere nonnegative?	2	Confirmation
+2078357	4269458	Are you trying to prove this asymptotically or for all $n$? I think this may not be true for all $n$ and for all growth functions, but I believe that, for all growth functions, there exists an $N$ such that for all $n \ge N$, $m_H(2n) \le m_H(n)^2$.	2	Confirmation
+3409976	7013766	Would I be correct in interpreting $\mathbb P(A \rightarrow B)$ is a probability distribution on the set of functions from $A\rightarrow B$ and $A\rightarrow \mathbb P(B)$ is the set of functions from $A$ to probability distributions on $B$? These sets are related in interesting ways that I could write an answer about, but I'm not sure that's what you mean.	2	Confirmation
+1559200	3174762	I assume you've used $\log \det(X) = \text{tr} \log (X)$ in coming up with the first derivative and that hasn't helped?	1	Confirmation
+1390121	2829922	@Eric I edited $\mathbb{R}^3$ insted of R3, is it ok?	1	Confirmation
+4396267	9194323	Isomorphic as vector spaces? It does not seem that the $H$'s form a Lie algebra.	1	Confirmation
+357748	768874	Do you need to know how may solutions are there, or you just need to write them down (probably via software)?	1	Confirmation
+2563829	5291744	You want to integrate the function $y^2-x^4$ over the convex quadrilateral in the $xy$-plane having vertices at $(0,0),(3,0),(0,3),(1,1)$. Did I understand the problem correctly?	1	Confirmation
+946623	1949728	Surely $A \cap B \in \sigma(A,B)$? (I presume by $\sigma(A,B)$ you mean the smallest sigma algebra containing $A$ and $B$).	1	Confirmation
+1326023	2694211	You mean that this should hold for all $x$ in the ring, or just for some $x$?	1	Confirmation
+1198873	2442574	Would you be interested in a proof of (2) and (3) which relied on using the derivative and the series for $\ln(1+t)$? [There is such a proof, a bit long to write, but I'm asking if use of the series for log is OK in a proof, since you say "looking for a solution based only on induction and basic facts about sequences."]	1	Confirmation
+227556	507214	When you say "exact probability", are you after a numerical answer? That would vary, depending on the values of `M` and `N` surely?	1	Confirmation
+3420538	7034924	Is the $=1$ constraint indexed by $w$ and $b$?	1	Confirmation
+3700638	7609882	There are algorithms that provably halt with probability 1 using SLLN but cannot be proven to halt with any positive probability using WLLN.  Is that the type of application you're asking for?	1	Confirmation
+1107034	2257288	You are asking about the integral $\int\sin(2\pi nt)\sin(2\pi mt)\mathrm dt$ but only in the case where $n=m$... Why not simply ask about the integral of $\int\sin^2(2\pi nt)\mathrm d t$, which is clearly the same thing in that case?!	1	Confirmation
+4152041	8595874	I take it you mean $\forall A,B \text{ } \exists c$?	1	Confirmation
+4378615	9151207	Do you assume that the sum of $\pm x_i$, which includes at least two different $x_i$ cannot be $0$ unless each group of $x_i$ sums to $0$?	1	Confirmation
+3357444	6910120	Are $G$ and $H$ free $A$-modules? Are they projective?	1	Confirmation
+774969	1608274	but no _modus tollens_ ($\phi \rightarrow \psi, \lnot\psi \vdash \lnot\phi$) of course?	1	Confirmation
+3676325	7585572	If $f(u,v) \geq 0$ then $g(x)=0$ iff $z(x)=f(z(x),xz(x))=0$, right?	1	Confirmation
+520687	1114293	Are you looking for an exact great circle, or an approximation to some accuracy from a series of varying rhumb lines?	1	Confirmation
+3416476	7026950	Is $P$ a projection matrix? I don't see why it should be idempotent.	1	Confirmation
+1763932	3599738	Is $\emptyset$ excluded?  for $n=1$ I'd assume the answer was $2$, no?  But you get $1$.	1	Confirmation
+1654261	3374623	Why does it seems that $f(x)\neq \sum_{n=0}^{\infty}(n+1)(x^n + x^{n+1})$? You conclude this by looking at the first term of the sum. In your answer that is $1+x$, in the given solution it is $1$, so it can't tbe the case that $f(x) = \sum_{n=0}^{\infty}(n+1)(x^n + x^{n+1})$, right? Wrong, because it can very well be that the "sums" (i.e. the series) are equal even though the first term isn't. The same way $1+2+3=2+1+3$ even though $1\neq 2$.	0	Confirmation
+2656544	5487055	Just to make sure: Did you state the problem correctly? Or do you mean this https://math.stackexchange.com/q/1453890/42969 ?	0	Confirmation
+3076370	6343633	Just an immediate observation, the A in your code is not mxn, but is nxn and orthogonal instead. Is that intended?	0	Confirmation
+2111887	4343155	I think, what you're looking for is examples of spaces where the property in question does not hold, is that so?	0	Confirmation
+2885105	5957600	If I've understood correctly, we have $|A_p|=0$ for $p>999$, right?	0	Confirmation
+2761074	5694900	I suppose you mean $\int^x f(t)\,\mathrm dt$ rather than $\int f(x)\,\mathrm dx$? And yes, this condition does conclude that $f=g$, i.e. that the slope of the two functions given by $\int^x f(t)\,\mathrm dt$ and $\int^x g(t)\,\mathrm dt$ are the same.	0	Confirmation
+2735541	5645604	Is it possible that they are asking for a multiplicative inverse that is specifically a Cauchy sequence? Because the sequence 1, 2, 3, 4... is definitely not Cauchy.	0	Confirmation
+4315665	8993414	Do you mean that $E/E'$ is a torsion sheaf on a surface wwith $c_1(E/E')=0?	0	Confirmation
+1466367	2986187	The second and last sets definitely don't span $\Bbb R^3$.  For the third, you'd have to tell me how you define $\Bbb R^3$.  Is it the set of all $3\times 1$ matrices?  Then no, it doesn't span.  Is it the $3$-dimensional vector space over the reals defined up to isomorphism?  Then yes, it does span.	0	Confirmation
+2232239	4589885	Are you sure @Rajiv Kaipa?	0	Confirmation
+2203271	4533179	Are all tickets non-refundable?	0	Confirmation
+3767345	7751666	Did you calculate those integrals for this particular input $f$? In other words, did you work out the matrix of $T$ w.r.t. the basis $\{1,\cos x,\sin x\}$?	0	Confirmation
+2658935	5491911	@bru1987 Are you sure that it is $\frac{x}{\ln(3)}$ instead of $x \ln(3)$?	0	Confirmation
+93644	220334	You're question is phrased in a very confusing way. Can you try to clean it up?	3	Correction
+2227375	4736951	Doesn't the non-trivial double cover of the one dimensional sphere factor through the "eight space", i.e., the union of two Spheres in a point?	3	Correction
+2600387	5369362	Should your indicator function be ${\bf 1}_{\{|X_n| \geq t\}}$?	3	Correction
+3903472	8050230	So you are interesting of the convergence of the *sequence* $a_k$, not the series ? Your title mentions the word series.	3	Correction
+736204	1535919	Shouldn't it be $(15)(16)(24)(23)(27)$?  Permutations are conventionally composed from left to right, and it seems that by comparing the disjoint cycle representation to the product of transpositions representation, that this is where you've had difficulty.	3	Correction
+3395059	6984349	Did you mean $p''(t)$ when you wrote $t''(p)$?	3	Correction
+315522	683165	You have the correct formula. What prevents you from using it? You just have to set $u$ to be equal to the first vector, the one that generates $L$.	3	Correction
+1422763	2898060	And where is the question? Putting it in the title is not the best way to ask. Anyway, the answer is negative no matter how one interprets the question.	3	Correction
+1426619	2908993	Are you sure the RHS is not $w(|a|^2)^{1/2}$?	3	Correction
+4209547	8737928	Should it be $f:X\to\mathbb{R}$?	3	Correction
+1693570	3458203	@Calculon Ah, I see, I missed this detail. However, the statement in my previous comment remains valid if you replace "$t \geq 0$" by "$t>0$". Regarding your claim: No, that's not correct. First of all, $t$ is fixed so why is there a "$\exists s,t$" at the right-hand side?(I guess that's a "different" $t$) ... and anyway, this looks still rather overcomplicated to me. Why do you need two sequences ....?	3	Correction
+1803573	3683679	do you mean $GF^2=EGÃ—GB$ instead?	3	Correction
+4095804	8465707	Can you post $A,B,C$ as code so they can be copy/pasted?	3	Correction
+1630693	3325071	If $A$ is a matrix, how can it be an Eiganvalue?	3	Correction
+74167	175270	Should that be $A(n,k)$ in (2) (or else $|\{\pi\in S_n:\pi\text{ has }m\text{ runs}\}|$)?	3	Correction
+4262413	8865760	Is the definition of $u^k_n$ correct? Or should there be $u_n$ instead of $u$?	2	Correction
+3324847	6841862	How do "emergence and evolution" have anything to do with _functional analysis_? (Are you aware of what functional analysis actually _is_? It's not analyzing how things function - it's a specific area of math, namely the study of topological vector spaces.)	2	Correction
+796368	1648211	Do you mean "surjective"? :)	2	Correction
+3413467	7020409	$+- \sqrt {..} $ typo or another constraint?	2	Correction
+1255084	2550309	Platonic solids?	2	Correction
+4023062	8305533	Why do you think $\overline p$ is a fibration? (I'm not sure it need be)	2	Correction
+406035	869034	I don't think it is different.  Suppose $x \in \bar{Y}$. For any $\epsilon$ there must be a $U_n$ with $x \in U_n \subset B(x, \epsilon/3)$.  Then $$\operatorname{diam}(Y \cap U_n) \le \operatorname{diam}(U_n) \le \operatorname{diam}(B(x, \epsilon/3) \le 2\epsilon/3 < \epsilon$$ so we have $x \in A$.  Are you sure you've read and transcribed correctly?  You could post more context from the proof.	2	Correction
+1096570	2234951	Do you mean $v=1-a\left(\frac{1}{730}\right)^\frac{5}{8}$?  The way you wrote it (with the negative sign inside the $\frac 18$ power) is imaginary.	2	Correction
+1242217	2525394	Isn't it supposed to be $w_{r+1} = v - \frac{\langle v,w_1\rangle}{\langle w_1,w_1\rangle}w_1-\dots$?  Otherwise your $w_{r+1}$ is defined as a linear combination of $w_i$'s since each $\langle \bullet,\bullet\rangle$ is a scalar.	2	Correction
+1771552	3616501	You mean a closed set is defined to be a set that contains all its boundary points?	2	Correction
+1641160	3346772	Should it be $x^2 \tan x \mid _{x=\pi}$ ?	2	Correction
+2729274	5633241	did you mean $x(t) = ^2 , y(t) = t^5$?	2	Correction
+624893	1316493	for some real $a$? Try $a=0$ :-). Do you mean for *any* real $a$?	2	Correction
+2093275	4302435	Since the Gauss map of $M$ has nothing to do with a curve, I think that perhaps something is missing from this question. Perhaps "Compute the Gauss map of $M$ along the image of $c$" or "Compute the composition $N \circ c$ of the Gauss map of $M$ with the curve $c$"?	2	Correction
+3327137	6846359	Please clear up the formatting. Why does the left hand side depend on $\xi$and the righat hand side doesn't? Please define the scalar product clearly.	2	Correction
+591607	1248057	The way it's written you'll get $\int_{a}^{c} f\; df = \frac{c^2-a^2}{2}=0$. This implies that $|c|=|a|\; \forall a,c \in \mathbb{R}$ which is nonsense. Surely you mean $\int_{a}^{c} f(x)\; dx$?	1	Correction
+3485950	7167681	At one point you said the center is trivial and elsewhere you said itâ€™s not!?	1	Correction
+1403750	2859008	"the probability that it will rain on the weekends" is unclear because the plural doesn't seem to make sense. Did you mean "on the weekend" (i.e. on at least one of the weekend days) or "on the weekend days" (i.e. on both of them)?	1	Correction
+4306777	8981815	Shouldn't $T-T_{w_k}$ have one term which is an $H$ inner product and one term that is a $V$ inner product?	1	Correction
+2543403	5251131	This looks like a lot of interesting mathematics.  Is there a question?	1	Correction
+2965692	6122336	By the way, should the sum be inside the ()^(1/r) ? That way it would make more sense ...	1	Correction
+3082075	6354195	Isnt the integeral just y(b)-y(a)?	1	Correction
+3005057	6198403	Do you mean $G\ast h$?	1	Correction
+4084168	8439411	Isn't $|k|$ just $k$?	1	Correction
+2018213	4148668	Are you sure you have the right definition for  "incidence matrix"? It's usually the matrix with $n$ rows and $n$ columns (indexing the vertices) with an entry of $1$ when vertices are joined by an edge.See https://en.wikipedia.org/wiki/Incidence_matrix	1	Correction
+2782067	5737199	The paper you linked to is about the inequality $(x^\top A^n x)(x^\top x)^{n-1}\geqslant(x^\top Ax)^n$; there you have the equality when $x$ is an eigenvector, and moreover it is homogeneous (unlike yours). Are you sure about the inequality you want to prove?	1	Correction
+2595165	5358252	Why the cases $1\leq p\leq 2$ and $2\leq p<\infty$ amount to the same upper bound? Then your question is actually addressing one inequality?	1	Correction
+2363589	4870730	Do you mena the sphere: $(x-a)^2+(y-a)^2+z^2=2a^2$?	1	Correction
+3404499	7002723	Isn't this false, though?	1	Correction
+3129853	6448101	Do you mean $q_n$ instead of $(q_n, 0)$? I assume you constructing a quotient of $\mathbb Z \times [0, 1] \sqcup \mathbb Q$.	0	Correction
+2219459	4565254	What? It doesn't say anywhere that $C_0 \subset U_k$.	0	Correction
+505724	1085453	Is $(\mathscr{F}_t)_{t\geq 0}$ the natural filtration induced by $(B_t)_{t\geq 0}$?	3	Incomplete
+1778196	3629861	is $G$ a simple graph?	3	Incomplete
+2273322	4675946	What do you mean by "fixed value"? If the vectors are fixed, then the determinant is fixed, isn't it?	3	Incomplete
+3574019	7348583	Are the blocks of $U$ identical?	3	Incomplete
+4083331	8541900	... Please make clear which is the question and to what extent an answer will be accepted. Covering all primes in the above list is of course a nice wish, a knowledge which is nice to have, but making the computations... and then typing them... Is computer support allowed? May i use for instance sage? Is it enough to provide some code for some typical cases? (Of course, different primes dividing $(p-1)$ make the types differ in the nature, but the investigation follows parallel lines...) When investigating $21$, why not looking for $7$ directly...?	3	Incomplete
+2018574	4143570	Can you show us one of your failed attempts?	3	Incomplete
+2464998	5093278	If $N=2$ and $\theta=\pi/2$ then your set is a line. There is no uniform (ie translation invariant) distribution on $\mathbb R$. Do you want to fix or bound $\|v\|$?	3	Incomplete
+3431703	7057292	What is the Euler-Cauchy numerical scheme? I know Euler-Cauchy differential equations, which this one is not,...	3	Incomplete
+415655	896620	Can you specify if you're trying to come up with a first order correction for the time variation of the fields, or a correction for spatial variation of the fields?  Your Taylor expansion of the field hints at correction for spatial gradients, but then you try to derive time corrections?	3	Incomplete
+4180682	8664997	What is the precise question?	3	Incomplete
+3902601	8050405	You haven't made it clear form the start that the $B's$ are nonoverlapping and $A = \cup_{B \subset A} B$, although it is implicit in the argument.  Why have you used the lebesgue-integral tag but based your argument on Riemann-Darboux sums?  I assume then that  "integrable" here can be taken as "Riemann integrable" in what you are trying to prove.	3	Incomplete
+46951	104617	Your nomenclature is a bit of a mess. Is $(k_n)_i$ supposed to be $k_{n_i}$? What is $((p_n)_1)$? Why the up-raised parentheses, ${}^{(}(k_n)_1$?	3	Incomplete
+4023418	8311943	Hello @pyring, and welcome to math.SE! Currently the question seems to have a chunk missing, replaced by "*[...here I explain models MI and MII, and then I proceed to describe the aggregation rules...]*". As the question is largely about mathematical communication I feel this portion might be important, both because some of the 'interesting' stuff might happen there, and because some notation in the following section ($f_{x_0}$) has not been introduced elsewhere. Could you either add that part or confirm that advice should disregard it?	3	Incomplete
+1387418	2825214	Is $E_k(\epsilon)$ the set $\{x\in E: |f_k(x) - f(x)| >\epsilon\}$?	3	Incomplete
+1927859	3957854	Could you explain what you already tried ? It will be easier to help you. Thanks.	3	Incomplete
+2955068	6101379	Do you have any hunches as to the notation?	3	Incomplete
+440461	944042	In the product $\prod\limits_{i \geqslant 1} (1+x^i)$, what is the coefficient of $x^n$? How do you get something that contributes to that coefficient?	3	Incomplete
+3589690	7380340	What did you tried? What tools can you use?	3	Incomplete
+2322126	4779636	Are there any conditions on $f(x)$?	3	Incomplete
+4346978	9070562	What is the definition of $(Y_n\mid X_n)\stackrel{d}\to\mathcal{N}(0,1)$? You are considering the limit of random distributions (i.e., random variables taking values in the space of probability distributions), and so, you would want to specify the mode under which the limit is taken.	3	Incomplete
+2666031	5506660	How does one win a game ?	3	Incomplete
+2312449	4758325	So $D_1$ and $D_2$ are effective divisors?	3	Incomplete
+3243022	6669966	What are the $L$'s?	3	Incomplete
+1432288	2917822	And what is gr(p)?	3	Incomplete
+3194595	6576363	What exactly do you mean by the notation $E_x(f(X_s); \tau \in ds)$?	3	Incomplete
+2400268	4953143	What do you mean with â€œthree circles intersecting each otherâ€? Just that each one intersects the other two? Or that there's a point that belongs to the three circles?	3	Incomplete
+1123630	2292644	What is a closed interval between two points in the plane? Is it a line segment?	3	Incomplete
+2129985	4380294	Are the cylinder and the cuboid solid ones or only the surfaces of a cuboid and a cylinder?	3	Incomplete
+250499	550635	What does a typical element of $M/(M\cap N)$ look like; i.e., how do you write its general form?  Given such an element, can you find an element of $(M+N)/N$ that is sent there under your map?  Incidentally, note that $n+N=N$, so $m+n+N=m+N$ (assuming here that $n\in N$).	3	Incomplete
+1195578	2433777	What are your ideas on this problem, do you know what you have to show precisely?	3	Incomplete
+3684707	7572330	When you say you don't understand how to use "that" to prove Newton's identities, what does "that" refer to? Please be more clear and explicit in saying what it is you don't understand.	3	Incomplete
+3613523	7445457	Is the conjecture equivalent to this?  Write $\sim$ for "orthogonal to."  If $L_1 \sim L_2$ and $L_2 \sim L_3$, then $L_1 \sim L_3$.  I.e., $\sim$ is transitive.	3	Incomplete
+3126128	6440667	What have you tried?	3	Incomplete
+1581047	3218161	The question in the title and the question in the body of text aren't the same. Do you want $M$ in the first or second components of $\text{Ext}$ and $\text{Tor}$?	3	Incomplete
+395369	846858	Is $H$ connected?	3	Incomplete
+359148	771830	Your definition of $\varphi$ doesnâ€™t really make sense. Before I can help you with it, though, youâ€™ll have to say what you mean by an isomorphism between, say, $\iso(X,Y)$ and $\iso(U,V)$: what structure is to be preserved?	3	Incomplete
+2000580	4107764	And yes, does $n$ vary, or are $S$ and $n$ fixed?	3	Incomplete
+1508635	3072921	Which definition of Gauss curvature are you using? You don't have to find the dual basis.	3	Incomplete
+3072627	6336705	You need to give us much more details, on the source you have what are the definitions?   Bipartite graphs have many properties, symmetric eigenvalues, $C_3$ free, ...	3	Incomplete
+3113921	6417841	What do you mean by "some parameter Q" and "Q  belongs to a generator representation of the symmetry group of H^"?	3	Incomplete
+3362580	6920205	What is the hint from the question?	3	Incomplete
+288145	628516	Your first task is to make precise the asymptotics you consider: $k\to\infty$ and $n\gt k$ but how? $n=k+1$, or $n\gg k$, or $n/k\to\alpha$ positive and finite?	3	Incomplete
+1897385	3892501	Welcome to Math.SE.  What have you tried?  Where are you stuck?	3	Incomplete
+3676313	7554637	Is the first equation really valid only for symmetric matrices?	3	Incomplete
+3252970	6724739	Is it guaranteed that the width of each box will always be an integer, or did you just use integers in your examples because they were easier to write?	3	Incomplete
+246638	543507	Do you want just the questions, or the solutions as well? I can probably translate the questions fairly quickly, but translating all the solutions as well will take longer (i.e., I probably won't have time to get it done until my exams are over in a couple weeks...)	3	Incomplete
+3833091	7905526	Du you mean $\hat{g}(x) = \inf \{ w | (x, w) \in Conv(epi(g)) \}$ ?	3	Incomplete
+3889436	8021146	Where did this question come up? In any topological space, the constant functions are continuous, but the tools from analysis aren't really suited to tacking questions about finite spaces	3	Incomplete
+4261194	8862845	Are two line segments which share a vertex in $P$ considered to "intersect"?	3	Incomplete
+4285876	8921592	This is a very complex question, depending on the meaning of the word "prove": Do you mean formal proofs or do you mean the process of discovery of a proof?	3	Incomplete
+3899783	8042765	Could you explain your second question? Do you not know what Top or PL is? Or do you not know what a weak equivalence is?	3	Incomplete
+1878613	3851671	For $0 < x < 1$, how is $\lim_{n \to 0}f(2^nx) = f(0)$? For $0 < x < 1$, as $n \to \infty$, $2^nx \to \infty$ not $0$.	3	Incomplete
+3732570	7673685	What is $\alpha$?	3	Incomplete
+1376047	2802066	Please state precisely your definition of $H$. What is the domain of $H$, for example?	3	Incomplete
+442289	948248	Which proof that $G$ is not simple do you know? (The immediate idea that springs to mind is the one that proves that any group of square free order is supersolvable, but that is probably more than you need)	3	Incomplete
+1164729	2374183	But method b is not well defined. What is the value of Q?	3	Incomplete
+4283792	8916679	What have you tried?	3	Incomplete
+2328017	4792565	Is $t > 0$ ? can you clarify ...?	2	Incomplete
+1607417	3339113	There are methods which will allow you to obtain an explicit approximation of $X$. Can you be more specific about the matrices $A$ and $B$. In particular, are A and B stable as is frequently the case?	2	Incomplete
+530444	1133426	I see you are applying well the identities for $\tan(\sin^{-1}x)$ and $\tan(\alpha-\beta)$.  So what's the real question?  Don't you understand where these identities come from, or you got the answers without knowing which identities you used, or you have problem finishing the problem?	2	Incomplete
+2993441	6176322	Is that for all $u,v\in\mathbb R^n$?	2	Incomplete
+2427517	5014732	You are using many symbols without explaining them. What are $S$ and $\pi$?	2	Incomplete
+1956923	4017117	Convolutions of arrangements of a multiset? What would the answer be if you started with for example $8,9,9 ?$	2	Incomplete
+4382743	9160939	If ABCD is meant to be a trapezoid, which pair of lines are parallel?	2	Incomplete
+4291816	8935555	Sorry, but why do you need $x_0$?	2	Incomplete
+1284490	2608093	Do you need to also deal with that $y^2(1)$?	2	Incomplete
+107916	252576	what is $i$ in your equation? Is it $\sqrt{-1}$? If so, what do you mean when you say the function increases when the function takes complex values?	2	Incomplete
+3670437	7542746	Is $id$ guaranteed to lie in the range $0 \le id < c$?	2	Incomplete
+1893584	3884152	I wonder whether you m ight expand your question somewhat. Your curve seems to be $Y^2=X^3-3267X+45630$, yes? So this curve has a cusp modulo $3$? And you are working $3$-adically? And you have a $\Bbb Q$-point $P=(-21,324)$? And you have taken the $24-$-fold multiple, which I would have written $[24](P)$? Am I right? By this point, I have gone perhaps too far out on the limb. As I say, could you expand?	2	Incomplete
+3833270	7906495	Could you add some more steps? I get for the Newton step function $$N_g(x)=x-\frac{g(x)}{g'(x)}=x+x\frac{R-x^3}{2R+x^3}=x\frac{(2R+x^3)+(R-x^3)}{2R+x^3}=\frac{3Rx}{2R+x^3}.$$	2	Incomplete
+2691760	5559312	What do you when you say "I can pick up to 4 pairs of gloves of my choice?"  Do you get to see the gloves before you pick them?  Also what is "a complete matching set?"  Do you mean that every glove is matched?  If so, do you stop as soon as you're satisfied?	2	Incomplete
+3768049	7753650	@IanFromWashington  Can you clarify your question?  As you can see, there is some confusion.	2	Incomplete
+3818550	7877817	Do you have a specific $g()$ in mind? Also, do you really want a relaxation (meaning a linearization satisfied by all feasible solutions but also by some solutions that violate the logical constraints)?	2	Incomplete
+2864005	5909217	Do you know the topology on $\mathbb{R}^2 / \sim$?	2	Incomplete
+3438441	7069092	What properties of a plane do you know so far? Do you know that 3 points can uniquely define a plane? Can you find the normal vector to this plane?	2	Incomplete
+2506844	5177559	How does your edit invalidate the example in my previous comment?	2	Incomplete
+3423243	7039902	Sounds a little bit like dimension reduction techniques such as Principal Components Analysis. Do you have to vary the unimportant features, or could you just drop them altogether?	2	Incomplete
+3974141	8198664	Do you have to pick an integer amount?	2	Incomplete
+1109429	2262349	For least square, you usually need more data points. You have two parameters to determine, but only two data points? Can you get more points?	2	Incomplete
+1490120	3035435	In which sense are you defining integration, Lebesgue or Riemann? In the Lebesgue sense this result is nonsensical, since $f 1_A$ will necessarily also be integrable if $f$ is.	2	Incomplete
+3983968	8220608	Could you point to some of the particular materials since context might matter? Generally though, if $\gamma$ is not an integer and one has $\gamma = n + a$ for $n \in \mathbb{N}$ and $0 <a < 1$ then $C^\gamma$ is the space of $n$-times differentiable functions whose $n$-th derivative is $a$-Holder continuous. In the case where $\gamma$ is an integer, it is common in the SPDE literature to set $C^\gamma$ to be the slightly larger space of $(\gamma-1)$-times differentiable functions whose $(\gamma - 1)$-th derivative is Lipschitz.	2	Incomplete
+773476	1605524	What do you mean by "p-commuting"? I never heard of this terminology.	2	Incomplete
+256804	562385	Are the $f_n$ functions in the sequence continuous as well?	2	Incomplete
+2693822	5566631	Did you linearize the system? Was the origin asymptotically stabel (AS)? If it is AS you can use the Lyapunov equation to come up with a quadratic Lapunov function.	2	Incomplete
+3328971	6850153	Which textbook do you use?	2	Incomplete
+2743090	5660006	Can you explain the notation you're using? i.e. what is $Y(x,y)$ ? is it the vector $Y$ dotted with the vector $(x,y)$? or is the vector $Y$ parameterized by $x$ and $y$?	2	Incomplete
+3781715	7787245	Are you supposed to know the *Chinese remainder theorem*?	2	Incomplete
+4118411	8516166	Do the "many things" include an integration by parts ?	2	Incomplete
+1028281	2096454	Yeah what is it?	2	Incomplete
+1018313	2078480	Can you give the actual copula and distributions?	2	Incomplete
+2551179	5266874	Are $f$ and $g$ differentiable?	2	Incomplete
+4029372	8319187	Hmm What is $x(t)$?	2	Incomplete
+4218130	8833741	Where did you find the statement that $\beta$ is continuous?	2	Incomplete
+1824477	3728975	what is your definition of compact set? Every open covering has a finite subcovering? I hope so, because that makes things more easy.	2	Incomplete
+2605332	5379927	Can you find one minimal element?  Can you find a second?  You are correct that there are an infinite number of minimal elements.  A good way here is to describe the minimal elements and note that there are an infinite number meeting the description.	2	Incomplete
+1807896	3693902	It would help if you give some context about your background in this subject.  For instance are you familiar with the concept of writing the matrix of a linear transformation in terms of a basis?  I really don't know what material you're comfortable with.	2	Incomplete
+3476508	7147414	What do you mean by "positive and negative elements"?	2	Incomplete
+2369004	4881796	What does $A=1$ mean?  Do you have a segment of length $1$ in your field?  if so then (by a standard abuse of the method) you can just translate that segment over to your line.  Or do you mean to say that you have a segment of length $\sqrt 2 -1$ and need to construct a segment of length $1$?	2	Incomplete
+356166	765686	Your problem statement is nearly incomprehensible to me.  What is $u$ and $x$?  maybe a little detail on what you did might help.	2	Incomplete
+3425527	7044289	It might have been a mistake to set $V = \mathbb R^n$, because the abstract case might be easier (there are fewer wrong directions to move in). What is your definition of $A^*$? Is $A$ not a linear transformation rather than a matrix?	2	Incomplete
+3075109	6340082	The point is that $x_0$ is a solution of ${\cal L}[x]={\cal L}[x_0]$, the linear equation is not homogeneous. // In the given equation there is a lower bound for the period, and the period depends on the level of the energy function that the solution lives in. The level set and thus the solution are determined by the period. Is that mentioned in the book?	2	Incomplete
+1997069	4100551	What is the definition of $E_\perp$? It looks like you are taking the projection, but the projection is idempotent, so I want to know the definition, then I can help you. Also, I need to know what setting you are working in (finite dimensions, inner product, etc.)	2	Incomplete
+306999	665528	Aha, you should have started with that link.. Also, wikipedia says a different definition for quasi-commutative semigroup (http://en.wikipedia.org/wiki/Commutative_semigroup), but probably this is the same as in the paper. I still don't get what your exact question is and what do you mean by '*go inside* the theorem'?	2	Incomplete
+4020987	8300914	If $u$ is a scalar, then $x$ is nothing but a number. Can you give more information? Where do you see this equation? What book are you reading?	2	Incomplete
+1153546	2352348	Which part is giving you trouble?	2	Incomplete
+1440505	2934335	What are the restrictions on $\beta$?	2	Incomplete
+3842839	7927084	Context? What is $I_m$ ?	2	Incomplete
+364173	781862	To be honest, your question is not clear to me. Do you want to prove that the first fundamental form is positive definite in a coordinate-free manner? When I said "impossible" I meant that in the form as the problem is stated this is, probably, not expected. Of course, one can show this in an invariant way, but using a different notation...	2	Incomplete
+3267863	6719841	Is it Limit[Cos[2] (2 x) 2 x - 3, x -> Infinity] or Limit[Cos[2 (2 x) 2 x - 3], x -> Infinity] or Limit[Cos[(2 x)]^2 (2 x) - 3, x -> Infinity] or something else? How is one supposed to interpret that function definition - does the book give any clues on that?	2	Incomplete
+2177480	4479103	So what have you tried or what is your question? Where do you get stuck?	2	Incomplete
+888920	1835335	What's the definition of the normalizer?	2	Incomplete
+1524410	3104210	Can you point to which definition of the Lie derivative you are interested in, if not the Lie bracket?	2	Incomplete
+979714	2007907	What's your definition of Borel $\sigma$-algebra? The $\sigma$-algebra generated by the open sets?	2	Incomplete
+1836917	3755655	What did you try?	2	Incomplete
+1670267	3414574	What are probabilities of getting a null-value in the bin on a given turn? Small? Large?	2	Incomplete
+3917525	8079429	I think you need to start by explaining your full setup in an [edit] to your question. What are all of your definitions? Specifically, what is a projective curve for you? Without having a common framework of definitions, it's really hard to have a productive conversation.	2	Incomplete
+2265384	4659047	What is "this" in "... to estimate this"? You say "Some people argue that the answer is just 10" - but what in fact is the *question*?	1	Incomplete
+3470338	7134417	If there are no poles inside the contour, what does that mean for the function?	1	Incomplete
+2316924	4768198	what means "many examples"? If the book is devoted to analysis it cannot have too many examples of the same topic. In general the ideas of the theory are expanded in the exercises.	1	Incomplete
+3209000	6602887	Is $H$ a subgroup of index $3$?	1	Incomplete
+3754294	7722167	I think your solution is ok, however I'm not sure about the 'upper semicontinuous' part. How is that related to a real valued function $f$ being upper semicontinuous ($x\to a+0\implies f(x)\to f(a)$)?	1	Incomplete
+903489	1863812	Just to understand it right, what is the size of the "boundary" if the graph has two or more connected components?	1	Incomplete
+1255699	2551337	Can you provide background for math people who don't know CES fcns?: 0) are c, g > 0? 1) Why does the integral exist? are there conditions on c and g that make this happen? 2) Why does the arg min exist?	1	Incomplete
+3188340	6561594	is $R$ a ring ?	1	Incomplete
+4269428	8882478	I don't understand your question, what do you mean by "find all these functions"?	1	Incomplete
+3103894	6396976	Can you explain what $+$ is here? Since you're summing a unit vector and a scalar. Note that this has no solutions even if I assume that $3 = 3(1,....,1)$, since then every component of the unit vector needs to be $-3/2$.	1	Incomplete
+106497	249435	What do you mean by "the irreducibles of the lower degrees"?	1	Incomplete
+1207322	2470648	Where do the sequences come from?	1	Incomplete
+416536	893147	What do you mean by $\sum_n^x$ when $x$ is not an integer? And if $D_f$ only consists of integers, it's still not clear what you mean by the limit on the right hand side.	1	Incomplete
+1111515	2266815	you cancel out $(a-b),(a-c),$ and $b-c)$?	1	Incomplete
+1138868	2324267	Is there some context to determine what these variables actually mean?  This problem is annoyingly ambiguous.  What does it mean to repair a server at rate $\delta$?  What does it mean to breakdown at rate $\gamma$ ?  Probability of breakdown per customer?  Amount of breakdowns per unit time?  This problem seems to be a guessing game.	1	Incomplete
+312270	676240	Sorry about ny question, but is there a definition of convergence of a sequence that's not assume a topology first?	1	Incomplete
+3566998	7334728	your restrictions are a little unclear. no squares: That is, no two dominoes may be directly adjacent, ie, lying lined up with one another? If that's to be interpreted, then you may never have any configuration greater than 2x1? are we covering the table, or are partial covers allowed?	1	Incomplete
+2529363	5223123	Of 1,..., n-k?  (or 1,..., n?)	1	Incomplete
+1974777	4064390	Is $\sigma$ a constant in your formula?	1	Incomplete
+749526	1561653	they are connected, so for any $i,j$ there is $n$ so that $A^n$ has positive entry in the place $i,j$... what do you mean by vertex transitive?	1	Incomplete
+2874261	5932909	Could you please give me the names for the mappings (also for the embedding if that also has one)?	1	Incomplete
+2150193	4422714	Can you illustrate the meaning of the numbers for $n=7$ ? I did not quite understand how to get them.	1	Incomplete
+726346	1517088	What if the order of $G$ is $np^k$?	1	Incomplete
+1405265	2862388	So you are using a generalized version of the $\binom{a}{b}$?	1	Incomplete
+3581304	7363161	What do you know how to do? The standard way of calculating LCMs does not involve prime factorizations (as pointed out by Will Fagy, whose answer you have dismissed). If you have the prime factorizations, then the LCM is trivial to calculate. What are you really asking?	1	Incomplete
+3655297	7511792	The rules are not clear.  Are you saying that no two balls can be next to each other or that the three balls can not be next to each other in a block?  That is, is $rgtbs$ a good ordering or not?	1	Incomplete
+3887055	8016478	What is a $K_3$-group, and why are you assuming that everyone will know what it means?	1	Incomplete
+4143513	8574528	What are your conditions on $f$ and $g$ ? Continuous ? Differentiable ?	1	Incomplete
+1333215	2709001	Thoughts and workings? What approaches have you tried?	1	Incomplete
+1580351	3216800	Where are your $s_i$s coming from? Also, if you could clean up your formatting (try to avoid using \text{} in your TeX) a bit so it's more easily readable, much appreciated.	1	Incomplete
+1767939	3607999	How do you define $m\phi(b)$ ?	1	Incomplete
+3069110	6327831	To put @lulu's comment differently, suppose instead you take the single ball out first. Does this change the result in any way?	1	Incomplete
+2487512	5139225	What definition of the resultant are you using? In the matrix version, the degree is almost immediate by computation.	1	Incomplete
+2736937	5648157	What is given and what is sought?	1	Incomplete
+759396	1579033	Your basic strategy is sound. How are you going to choose $M_1$ and $M_2$?	1	Incomplete
+3463401	7119860	I don;t understand the picture ... there seem to be corridors between some of the rooms (e.g. between 4 and 5) ... so the lack of a corridor seems to suggest that you can't move between them?  But then many rooms are isolated!  And if all rooms are supposed to have doors, so you can move between the 'islands', then what prevents the rector to just go 1,2,3,4,5,6,7,8,9,10,11? Also, do the symbols in the rooms mean anything relevant?	1	Incomplete
+1066196	2168574	No, it's a bit more complicated, the closed unit ball of $C[0,1]$ has non-constant extreme points. Precisely what are the extreme points of $\{ z \in\mathbb{C} : \lvert z\rvert \leqslant 1\}$?	1	Incomplete
+1670307	3407454	When you integrated $\int_0^1 (\pi-\sin^{-1}y)dy$, how $2/\pi$ appeared?	1	Incomplete
+455336	979339	If this is contest math, would you mind adding the source?	1	Incomplete
+3197646	6580807	I don't understand the step $$17^8\cdot 17^8\equiv 7\cdot 7\pmod {10}$$ Could you please elaborate?	1	Incomplete
+2172422	4468056	What makes you think it is possible?	1	Incomplete
+3990472	8235085	Is this a random measure, or the measure associated to a particular path?	1	Incomplete
+1735091	3542550	Why do you start supposing that the presheaf $\mathcal F$ is contained in a sheaf $\mathcal S$?	1	Incomplete
+4072983	8415529	What is the relation between $f(\phi)$ and $F(\phi)$, or is $F$ a misprint for $f$?	1	Incomplete
+1899025	3896032	Can you define $j[A - A^*]$? What is this?	1	Incomplete
+4368894	9126985	The real part at a minimum? Minimum of what?	1	Incomplete
+3867615	7977173	This looks good. But why do you need lines 9-11 of the proof? Doesn't the display after "Multiplying through by 2 gives" follow from the equations given in lines 6-8?	1	Incomplete
+3097912	6385251	But: where is (II)?	1	Incomplete
+4426916	9264543	At the first glance your model looks o.k. So what is your question?	1	Incomplete
+1114833	2273918	What do you mean when you say "but $\|F-\sum\limits^k_{i=1}f_iw_i\|\rightarrow0$"?	1	Incomplete
+208999	474187	..what do you mean by 'straight line'? Is $M$ embedded in $\mathbb R^n$?	1	Incomplete
+1876524	3846812	For the record, WHICH "line" of my posting do you have a problem with? $\qquad$	1	Incomplete
+2829990	5835473	Are you allowed to use any theorems regarding convergence of random variables?	1	Incomplete
+3598598	7397571	I get a eighth degree diophantine equation on $a$... Where did you find this problem?	0	Incomplete
+67619	159821	Obviously you want $a \ne 0$.  In that case, $a \times b = a \times c$ implies $a \times (b-c) = 0$.  Which vectors have 0 cross product with $a$ ?	0	Incomplete
+2569980	5306967	The degree is defined for elements of $A$, but what about elements of $A/I$? One element in $A/I$ can be represented by different polynomials in $A$ with different degrees. And what's this you're saying about "the inverse" of a nonconstant polynomial?	0	Incomplete
+2093779	4303500	What is $nCp$?? Is it $\binom{n}{p}$?	0	Incomplete
+4256164	8850990	Does the function $f$ possesses some concavity properties?	0	Incomplete
+3025901	6239163	What is $\lambda*$?	0	Incomplete
+2461597	5086376	What base log are you using?	0	Incomplete
+1601951	3263960	And what is $C_2[-1,1]$? An unorthodox way to denote the space of twice continuously differentiable functions on $[-1,1]$? (The standard denotation of that would be $C^2([-1,1])$, or possibly without parentheses $C^2[-1,1]$.)	0	Incomplete
+2099109	4317019	Is the upper limit of summation $n$ or $\infty$?	0	Incomplete
+4100701	8477269	@Rider Sorry that I do not understand your comment "The perpendicular for triangle EOD is ED".  In $\triangle EFO, \sin \angle EOF=\sin (90^\circ +\theta)$.  All you said in your question is correct, except that "What I didnâ€™t get is how is sin theta = FE/OE"  - where does this "sin theta = FE/OE" come from?  If you can clarify this, that would be helpful.	0	Incomplete
+3340835	6876205	What do you mean by "the first order condition of a convex function"? What would this condition be in the case of a convex function $g:\mathbb R^n \to \mathbb R$?	0	Incomplete
+218692	536350	What kind of characterization are you looking for? I don't believe there's a simple representation, otherwise this would be a really good way of computing eigenvalues! You can, however, say the sum of eigenvalues of B is the sum of eigenvalues of A plus c.	0	Incomplete
+2930379	6053353	How is $M_i$ defined? We don't have enough information to answer otherwise.	0	Incomplete
+2183352	4491235	Are you using any textbook on ODE? Any textbook should have the proof that multiplying the ODE with integrating factor does not change the solutions of ODE.	0	Incomplete
+2024441	4155141	No, I mean why do you think it is true that $\Phi(X)$ has a minimum element? But after your edit, I think it should be immediately clear.	0	Incomplete
+1703251	3476133	What did you try?	0	Incomplete
+3083937	6358088	is $\nabla^{2} f(x)=H$ constant?  In that case, your problem is simply unbounded!	0	Incomplete
+2766123	5704533	Please type out the equations with MathJax. Currently it's not very clear. Are the lower case letters subindices or multiplication, or even just variable names with more than one letter?	0	Incomplete
+2678410	5531943	It is unclear to me what is your question. For instance, what does $e^x$ represents geometrically when $x$ is a real number? Could you answer this question? To me, this is a meaningless question unless you specify what geometric would mean here. One can talk about 1-parameter subgroups and some would regard thus as algebra, some as geometry ...	0	Incomplete
+1984661	4074332	Are you allowed to use L'Hospital's Rule for this problem?	0	Incomplete
+4869	10543	Do you mean that one could try to define a complex integral inside, e.g. a rectangle $a\le\Re x\le b$ $\times$ $c\le\Im y\le d$ ?	0	Incomplete
+4244024	8822207	What do you mean by connector/non-connector, planes quads, etc. ? Are the two objects identical ? Is each object a polyhedron ?  How do you draw these objects, with what software / computer language ?	0	Incomplete
+1718540	3507795	$f(n)=n$ is a trivial solution. Can we see your proofs ?	0	Incomplete
+462208	994897	Are $k,p,q$ each arbitrary positive integers, or are $p$ and/or $q$ meant to be prime?	0	Incomplete
+3518215	7235478	For $x$ is closed to $0$?	0	Incomplete
+1895180	3887488	Is each part required to be a single interval?	0	Incomplete
+3218916	6622457	What exactly does $\sum^{*}$ mean here?	0	Incomplete
+2492520	5148604	Can you perhaps justify further why you feel that left-continuity immediately implies that the set in question is a union of intervals? That, I feel, is really the heart of the question.	0	Incomplete
+2131459	4400260	There is not enough information to answer your question.  What kind of curve is it?  Is it part of a parabola?	0	Incomplete
+3218851	6622300	The map is not yet defined on all vectors of $V$. How does it map $a+b$, for example?	0	Incomplete
+151113	347943	What is the general term of your sequence?	0	Incomplete
+1615228	3292410	Where is $n$ in your question?	0	Incomplete
+2730495	5635446	I don't understand the down vote.  The OP stated his question clearly and showed his work.  What more do you want?	0	Incomplete
+894705	1846854	What does your notation $\{x_n\}\mathbb Z$ mean?  Any interpretation I could think of results in a countable set, which makes it unlikely to describe all dense sets.	0	Incomplete
+2171261	4465740	"In a shelf there are two books of five different subjects. Compute the probability of none of the books keep together of the same subject." Are there 2 or 10 books? What do you mean by "books keep together"? Etcetera.	0	Incomplete
+3206464	6597423	Exactly what is confusing you?	0	Incomplete
+2306188	4745202	Well, even assuming that for some specific set of numerical values of $a,b,c$ and $d$, that that's true, what's the question?	0	Incomplete
+3967349	8183477	What is $x_f$ ?	0	Incomplete
+2429723	5018636	I know what a correlation matrix is, but not what the problem is that you refer to.  What is it?	0	Incomplete
+2706193	5587644	What do you mean by convex icosahedron? You could use the symmetry of the object and split the volume into 20 equal parts or better pyramids. Then determine the volume of the pyramid, which can be parametrized in order to calculate it via a integral.	0	Incomplete
+4359301	9102769	What is your definition of a submanifold?	0	Incomplete
+2673167	5521245	What book ? The proof relies on the proof system to be used.	0	Incomplete
+4229686	8785915	When you say classify, do you mean translation, reflections, rotations and so on? And it is not clear what is to be "discussed".	0	Incomplete
+2921708	6035869	How do you justify the first inequality? Note that $ue^{-2x}\le u$ only if $u\ge0$, and $\left(1+\frac{(-x)^{27}}n\right)$ is not positive over the whole of $(0,n)$.	0	Incomplete
+1211356	2464449	Your example shows only that the weakest topology where constant functions are continuous is the trivial topology (which is the weakest topology possible), so what's your question about this example?	0	Incomplete
+4152580	8597307	Are there any underlying principle that you expect complex integral shall obey?	0	Incomplete
+8830	19034	What, exactly, are these papers?	0	Incomplete
+2613945	5398503	What does â€œsequentialâ€ mean?	0	Incomplete
+49492	110728	What do you mean what does it represent? There's no new notation or terminology there, and I assume you know what a logarithm is. Maybe have a look at http://en.wikipedia.org/wiki/Telescoping_series	0	Incomplete
+2194759	4515588	Don't you have a third condition: "above the xy plane"?	0	Incomplete
+486850	1047822	What is the category you're working with? What kind of use do you want out of the category? I'm just interested about why you're not interested in applications to programming, for instance. I doubt your exponential objects are going to cook your lunch!	0	Incomplete
+4241465	8814305	Ok. But then the sizes of $A_i$ and $A$ might differ.. How could they be ever equal?	0	Incomplete
+980710	2009668	What if $a+b+c=0$?	0	Incomplete
+1513355	3082212	i reelly don't understand what you mean?	0	Incomplete
+1425165	2903164	Does the result of the dice throw matter at all?	0	Incomplete
+3154567	6496576	What are the exact definitions of "countably additive" and "finitely additive"?	0	Incomplete
+458162	1565495	What is the original version of  Markov-Kakutani fixed point theorem?	0	Incomplete
+3032917	6253691	Did you prove that the $\cos$ function is continuous?	0	Incomplete
+1117255	2279299	How did you get your answers?	2	Others
+638245	1345914	so @Daniel actual problem is :is your believe correct or other assumption? :D it is just for  funy	0	Others
+513883	1101510	It's theorem 12.36 in Rudin. Shall I reproduce the proof, or do you prefer to look it up yourself?	3	Others
+2147394	4418288	How does the fire spread beyond the initial trench when it reaches $(x,y) =(8,0)$ in your linked figure?	3	Others
+304321	659612	Are you going to mark your other questions as solved?	3	Others
+4052639	8370942	Why then don't you correct your question ?	3	Others
+2912211	6015906	What is the difference to what I have written?	3	Others
+1026154	2092747	Does it mean this is a homework which we are supposed to do?	3	Others
+2765615	5703636	This is a bit of an advanced topic for a group theory novice, no?	2	Others
+762472	1584819	Do you know calculus?	2	Others
+618642	1303119	If you imagine playing this game (with the cards lying face-down), would you really expect to win 20$?	2	Others
+2457556	5077734	Why would you suspect that the method is invalid?	1	Others
+805867	1666147	Hi I'm back still need help?	1	Others
+2317108	4768559	I agree, this is a curious question. The next one being: "what is the third connected component" ?	1	Others
+1806670	8141773	Why isn't the answer accepted?	0	Others
+518129	1111045	How far did you get? Along the lines of the hint, I mean.	0	Others
+655776	1382668	almost see my remark to your earlier question, it depends on the logic and other more curious things, PS why a new question?	0	Others
+4041484	8346366	All this "vertically down from left to right" only serves to make your point much harder to see. Why don't you just write each set of numbers in one row? Then you can simply say "left to right" or "right to left" and be easily understood.	3	Suggestion
+2192490	4510588	Do you need to vary all 3 coordinates? i.e. can't you have it rotating around the centre in a plane?	3	Suggestion
+1326563	2695334	Why not just say $\frac{(1-x^{2})^{n}}{(1-x)^{n}}=\frac{((1-x)(1+x))^{n}}{(1-x)^{n}}=(1+x)^{n} \frac{(1-x)^{n}}{(1-x)^{n}}=(1+x)^{n}$?	3	Suggestion
+3412583	7018637	Are you familiar with asymptotic distributions of maximum likelihood estimators? Asymptotic normality?	3	Suggestion
+1313778	2668842	Yes. And does $\psi_N$ do that?	3	Suggestion
+191290	440787	Did you show that $5/3 + 1 = 8/3 < (5/3)^2$?	3	Suggestion
+197301	452393	What's stopping you from using any of the techniques you've learned for solving a system of two equations in two variables?	3	Suggestion
+1724096	3519862	Do you already know the fact that the number of rooted plane trees on $n+1$ vertices, without any restriction on the degree of the root, is the Catalan number $C_n=\frac1{n+1}\binom{2n}n$?	3	Suggestion
+2594626	5357110	Do you already know about Hadamard's product theorem, order and genus of entire functions?	3	Suggestion
+2752911	5679231	You are correct that there will be more and more terms. But we know exactly how many terms. And we know what all the terms are. It's a geometric sum. Do you know how to calculate a geometric sum?	3	Suggestion
+3594870	7391473	@quixotrykd If you click on the reference shown exactly at the end of the phrase that you quote, it leads you to a PDF from which I got the information that I wrote on the comment :)  It makes sense. Can you prove $\exists x.p(x)\vDash p(A)$?  Btw, before you apply skolemization, all you need is to have the formula in prenex normal form.	3	Suggestion
+2196953	4520358	You need  $\displaystyle \int\limits_\text{whole plane} f(x,y)\, d(x,y) = 1.$ If you find $\displaystyle \int\limits_\text{whole plane} f(x,y)\, d(x,y) = a \times \text{something},$ then you need $a\times\text{something} = 1,$ and from that you can find what $a$ is. Were you aware that that is what you need to do? If so, at what point did you run into difficulty doing it? $\qquad$	3	Suggestion
+2458199	5079063	The left hand side divides the right hand side. Can you see why?	3	Suggestion
+2443509	5047798	IMO this means you can take each digit known in keystream, and get 5 equations - one for each digit. Eg set $i=1$ as first known digit in  keystream. Then $Z_3=C_0Z_1+C_1Z_2=0=C_0+C_1$ etc. Can you then solve the equations for $C_0$ and $C_1$?	3	Suggestion
+2565157	5294359	Have you checked this?: https://en.wikipedia.org/wiki/Quartic_function#Solving_a_quartic_equation	3	Suggestion
+2140869	4403384	Have you heard of eigenvalues and eigenvectors?	3	Suggestion
+371420	795884	Start small. If there is only one coin, then who wins? What about if there are two coins? And three coins? You should see a pattern emerge for each $3$ extra coins.	3	Suggestion
+1038627	2116603	Ok, take $D = \{1\}$, which ideal extends to the ideal $D^{-1}R$?	3	Suggestion
+2027872	4162042	Have you ever heard of the multiplication principle of counting?  Have you ever heard of permutations?  Can you see why part (a) is like asking "With $A=\{1,2,\dots,m\}$ and $B=\{a,b,\dots,n\}$, how many strings of length $m$ using letters from $B$ exist where letters aren't repeated?"	3	Suggestion
+3315327	6821111	This is the correct approach. To show completeness, did you setup the equation $E_{\theta}(g(S))=0$ for all $\theta$ and for some function $g$? Can you show, as per definition, that $g(S)=0$ with probability 1?	3	Suggestion
+1763321	3598481	Have you tried using the hint given in the book?	2	Suggestion
+1392441	2834772	In principle, yes.  Can you show that you can remove a vertex without disconnecting the graph?	2	Suggestion
+702032	1470278	You can write it as a finite sum of digamma functions. Is that what you would want?	2	Suggestion
+1707224	3484693	Calculate how long the race will last:  (3,000/4 = 750 units of time).  Calculate when A will first meet B.  (x = ???? I dunno... you said you did it).  For all frames of reference everything is exactly like the start of the race.  So A will meet B in 2x,3x, etc.  How many times total?  750/x, of course.	2	Suggestion
+4421822	9253085	Any hint?  Well $f(x)=x$ is uniformly continuous on $[0,\infty)$.	2	Suggestion
+693009	1452255	If $n=4$, from the description then the only edge would be $\{1,4\}$. Then $G$ is not connected?	2	Suggestion
+3681402	7564960	Like $w_1=c_1v_1+c_2v_2$ then solve $v_i.(x-w_1)=0$ for $c_1,c_2$. Should I expand it to a full answer?	2	Suggestion
+4220927	8763890	This is really more properly a physics se post, but while you're here: you can save yourself some hassle by realizing that the net force has to point along the z-axis (why?).	2	Suggestion
+448803	964209	For calibration: You're aware that $\langle A, B\rangle$ is (essentially) the Euclidean inner product on $\mathfrak{u}(n)$, and that left multiplication in a Lie group uniquely extends multilinear functions on the Lie algebra to global tensor fields?	2	Suggestion
+1868846	3828547	does an algorithm in time $n\times m$ help?	2	Suggestion
+3277216	6741716	Did you try Zimmer's book?	2	Suggestion
+345351	743012	Do you know that $e^x = \sum \frac{x^n}{n!}$?	2	Suggestion
+3391934	6978077	Are you familiar with [skeletons](https://en.wikipedia.org/wiki/Skeleton_(category_theory))? Every category has skeleton(s) and is equivalent with each skeleton. This can be proved in general setting and then be applied to your case. It then only remains to be shown that the skeleton in your case is small.	2	Suggestion
+3956546	8158957	HINT: What do you know about $f[C]$ when $C$ is connected and $f$ is continuous? \\ Every function from any space to the one-point space is continuous, and the one-point space is connected; what does this tell you about continuous pre-images of connected sets?	2	Suggestion
+3323710	6839175	Do you know what $\phi(t)$ is(both its definition and why it's defined like that)? Without the definition, the third step is not clear at all, an without knowing why it's defined like that, you will not know the significance of the quantity you are calculating!	2	Suggestion
+3605282	7417295	Why? I can make the hole have a finite depth. It does not matter, as long as the sphere will jump over it	2	Suggestion
+3352964	6901055	Have you tried just applying one Newton step starting at $f(0)/(1-f(1)+f(0))$ (where the equation is $t=f(t)$)?	2	Suggestion
+2568600	5302361	The sets $B$ and $\coprod_{p \in M} \pi^{-1}(p)$ are *the same set*. So there are not two topologies, there is only one topology on that one set. Also, usually one doesn't bother with $B / \sim$ since, as you point out, it corresponds bijectively with $M$ itself. I can try to write an answer, but it would greatly help to know how much topology you know? Do you know the definition of a topology? The definition of a basis of a topology? Do you know the definition of a smooth manifold, expressed in terms of coordinate charts and smoothness of overlap maps?	2	Suggestion
+783834	1624890	Can you form the matrix of coefficients of the system? Well, now reduce (by row, by columns: as you wish) this matrix. Write down in your question what you get and from now we'll continue...	2	Suggestion
+4311540	8983417	This [Q&A](https://math.stackexchange.com/questions/4201501/exist-contravariant-derivative/4202076#4202076) is closely related. BTW what is the difference between $x^i$ and $x_i$ ? What textbook is that exactly ?	2	Suggestion
+3484665	7164711	Moreovoer : If we get a contradiction with $\pi$ , why don't we get a contradiction with $\sqrt{2}$ ?	1	Suggestion
+1171703	2387601	I did not read the paper, but why do you think it is not true? You definitely can define inner product in this way - it is easy to prove that it has all needed properties.	1	Suggestion
+3580253	7361092	How about: for any expression in $n$ variables that you can build with the operator, its evaluation at $(0, 0, \ldots, 0)$ is 0?	1	Suggestion
+699420	1467665	OK, can you recover the components of X from w(X,-)? Can you use that to show that X->w(X,-) is injective?	1	Suggestion
+3419718	7032926	Do you know what the first moment means ?	1	Suggestion
+2129994	4380316	What is your definition of a $\mathbb K_1$-vector space over $\mathbb K_2$?	1	Suggestion
+2413847	4984522	[Numerical root finding](https://en.wikipedia.org/wiki/Root-finding_algorithm#Iterative_methods)?	1	Suggestion
+2497292	5158272	Why do you exchange $a$ and $b$ for $p$ and $q$? Leave them as they are, work out the brackets to the 3rd power and you will see that all terms cancel if it indeed is a solution.	1	Suggestion
+2978294	6146806	We know that $Gal(\mathbb{Q}(\zeta_{13})/\mathbb{Q}) \simeq \mathbb{Z}/12\mathbb{Z}.$ Did you have a look at similar questions here at MSE? Just follow [this duplicate](https://math.stackexchange.com/questions/463968/finding-the-intermediate-fields-of-bbbq-zeta-7) with $13$ instead of $7$.	1	Suggestion
+1121364	2288004	$\wp(X)$? $\qquad$	1	Suggestion
+2639121	5450644	Perhaps [completion](https://ncatlab.org/nlab/show/free+cocompletion) is what you are looking for?	1	Suggestion
+1946236	3995733	Borel sets are the smallest $\sigma$-algebra that contain the open sets, but there are more measurable sets than that. The last equation is Caratheodory's definition of measurability. Have you thought about the others?	1	Suggestion
+1520287	3096117	Try to follow the hint: First of all, what is the dimension of $Lin(V, V)$ (in terms of the dimension of $V$)?	1	Suggestion
+2329721	4796092	Deane Yang's suggestion sounds good to me as well. While you're at try to think about the  following: *is it possible to make $\mathbb{R}^2$ into a vector space over the quaternions?* ( No, but why not?)	1	Suggestion
+1480105	3014069	O nooo... A *third* one? http://math.stackexchange.com/q/1479952/ http://math.stackexchange.com/q/1479330/	1	Suggestion
+4083690	8438574	Why not just set $(a^2 - b^2)/a^2 = k$?  Can't you see through to the underlying problem?	1	Suggestion
+213756	482551	Consider the sequence $b_n - a_n$.  What does this converge to?	1	Suggestion
+2482713	5129344	Do you have any ideas, or experience with showing that a sequence converges in this Sobolev space? What this question is lacking (compared with the rather "high" level of Mathematics it is about) is some effort from you, OP.	1	Suggestion
+88436	208215	Did you know that "GL" in $GL(2,\mathbb R)$ stands for "general linear *group*"?	1	Suggestion
+4062874	8393667	Have you tried applying the definition of an open set to $A = \{1, 2, 3, 4, 5\}$? Is there any open interval contained in $A$ and  containing $1$?	1	Suggestion
+1214377	2470992	Do you mean to find a size $2n + 1$ [Latin square](http://en.wikipedia.org/wiki/Latin_square)?	1	Suggestion
+3218884	6630033	How about $\forall x: (\exists y. x = y + Sy) \iff(\lnot \exists z. x = z+z)$?  (A number is a sum of two consecutive numbers if and only if it is not even.)	1	Suggestion
+3900736	8044729	"Fixes R pointwise"? If an automorphism of R fixes R pointwise, it's trivial, by definition.	0	Suggestion
+2519895	5203950	You have found elements in the two vector spaces, and thus you have found a vector that is a valid element in a basis for each of them, which means that you're off to a good start. However, you haven't shown that you have found _all_ elements. Yes, $\left(\begin{smallmatrix}1\\1\\1\end{smallmatrix}\right)\in U_1$, as is any scalar multiple of that vector, but is that the entirety of $U_1$? Similarily with $\left(\begin{smallmatrix}1\\-1\\1\end{smallmatrix}\right)\in U_2$.	0	Suggestion
+3783134	7790639	$g(x)=f(ax)$ ???	0	Suggestion
+134655	310432	P.S. That's a strange way to present the group; the introduction of $c$ just makes things seem more complicated. What's the point?	0	Suggestion
+1210152	2462008	But $\Bbb Z[\omega]$ is a UFD, where $\omega=-\frac12+\frac{\sqrt{-3}}2$, a primitive cube root of unity. Shouldnâ€™t that allow you to decide?	0	Suggestion
+3958318	8166288	Your idea is right. All you have to do is argue that if you have $z=\phi_i(x,y)$ on $U_i$, then $\phi_i(x,y)=\phi_j(x,y)$ when $(x,y)\in U_i\cap U_j$. And, of course, you have to argue that you can choose these $U_i$ to cover $\Bbb R^2$. You're right that the last part is the subtle part: What happens to $\nabla F$ if there's a point with maximal $\|(x,y)\|$?	0	Suggestion
+1424773	2902424	Does the binary method of (matrix) exponentiation help?	0	Suggestion
+1422457	2897444	Is it acceptable to you that, except for $x=0$, there is always some value of $\alpha$ such that $\tan\alpha = y/x$?	0	Suggestion
+2414141	4985368	Can't the exponential map on $S^2$ be explicited easily? Given a point $x\in S^2$ and a tangent vector $v$, the geodesic starting from $x$ at initial velocity $v$ is $c(s)=\cos(s)x+\sin(s)v$.	0	Suggestion
+3617317	7435053	Have you considered using modular arithmetic ? Just saying.	0	Suggestion
+1289452	2620509	For your example, if you only want the $x$ axis stretched, then $a=37.5$, $b=c=12.5$.   $(x_0,y_0,z_0)$ is the location of the centre. Make sense?	0	Suggestion
+21875	47474	inverse function theorem?	0	Suggestion
+3870783	7983803	@user107952 But one of the points of model theory is that even when we're talking about a single structure, there's no reason to adopt language which will prevent us from easily passing to other similar structures. There's no advantage to doing the sort of simplification you're describing, so why do it?	0	Suggestion
+1411909	2876528	$\{1,\frac12,\frac13,\dots,0\}$ is closed (why?) and bounded. The theorem then tells us that it is compact. Without using the theorem, can you prove that it is compact? (Consider an open cover.) Perhaps it is useful to draw what this space looks like, as well as potential open covers.	0	Suggestion
+756439	1573674	No need for a SDE, $Y$ is simply $Y_t=Y_0+at+(b/c)(e^{ct}-1)+\sigma B_t$. "Name"? No. "Explicit distribution for first passage times"? No.	0	Suggestion
+455280	979199	Maybe use $9 = 3^2$?	0	Suggestion
+1973318	4052644	Once $T(t)$ is known, substituting it back into the PDE gives: $$ X(x) = {k \over T'(t)} X''(x) + {k \over c} X'(x), $$ which, for each fixed $t$,  is a 2nd-order linear homogeneous ODE in $X(x)$ with constant coefficients.  Can you attack this ODE without resorting to Fourier series?	0	Suggestion
+3730048	7668186	Since matrix multiplication follow a distributive law, your question boils down to: Does $A$ commute with $A$ and $I$?	0	Suggestion
+1838517	3759351	what about Wolfram Alpha?	0	Suggestion
+4258197	8856003	Hinr: what's the definition of "Schauder basis"???	0	Suggestion
+3548293	7296653	Welcome to Mathematics Stack Exchange.  Do you see that if $b3=-2b1+b2$ and $b4=-b1+b2$ then $-b3+b4=b1$?	0	Suggestion
+657506	1383716	Have you studied calculus? If so, you might find it interesting to look at the first derivative of $y=x$, the second derivative of $y=x^2$, the third derivative of $y=x^3$, etc.	0	Suggestion
+4365955	9119977	Okay, so just taking the restriction to $[0,1]$ answers your question?	0	Suggestion
+577591	7115175	Thanks, I was also interested in the same question, what I would say to a non-mathematician, that why one would be interested to know whether invariant measure exists or not?	0	Suggestion
+3971064	8191977	Are you familiar with how to deal with equations with variable coefficients? Do you know the method of Frobenius?	0	Suggestion
+2909217	6009625	Did you try integration by parts to proceed?	0	Suggestion
+2417504	4992799	Independently of your questions, have you tried to find a closed form solution? I think this is possible. I have already solved some cases. Would be interesting if you also share your model as a MILP.	0	Suggestion
+2815404	5805241	Couldn't you do $\frac1{z^2 + z} = \frac1z - \frac1{z+1}$?	0	Suggestion
+3718074	7641826	Have you tried  $k=0$ in $e^{ikx}$ ?  That is, constant functions are also trigonometric polynomials.	0	Suggestion
+547710	1165874	Hint: What happens if you look at $hkh^{-1}k^{-1}$ with $h\in N_G(K)\cap H$ and $k\in K$?	0	Suggestion
+3222916	6631409	Depends on $f$. Here $f$ is entire and $f(0)=0$ hence the power series at $0$ is $f(z)=a_1z+a_2z^2+\dots$, and [its radius is infinite](https://math.stackexchange.com/questions/843858/radius-of-convergence-of-entire-function). Conclusion about $g$?	0	Suggestion
+1384789	2819809	Shouldn't the residues be just $\log(z)/(4z)$ evaluated at the 4 simple poles, once you've chosen a branch for the log? Why is that taking a long time?	0	Suggestion
+370195	793605	What do you know about the behaviour of holomorphic functions near an isolated singularity? Especially if the function is bounded?	0	Suggestion
+1110600	2264820	why not plugging the first equality in the second one, or the other way round?	0	Suggestion
+3241642	6667434	Hint: What can you say about the quotient $R[x]/I[x]$?	0	Suggestion
+1069003	2174328	Why not use Horner?	0	Suggestion
+245410	541082	I suspect that the point of it being true or not matters less to your instructor than does *HOW* you arrived at your answer. Why don't you post your work, and ask whether your proof is sound?	0	Suggestion
+448324	963064	Do you know Stirling's approximation?	0	Suggestion
